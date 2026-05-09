@@ -59,7 +59,7 @@ main{
 .pikachu{
     font-size: 100px;
     font-weight: 800;
-    font-family: Montserrat;
+    /* font-family: Montserrat; */
 }
 .description{
     font-size: 17px;
@@ -98,7 +98,8 @@ main{
 .bar{
     width:50px;
     height: 30px;
-   
+    /* border: 2px dashed blue; */
+
     display: flex;
     flex-direction: column;
     justify-content: space-between;
@@ -113,6 +114,7 @@ main{
 .dotdot{
     width: 20px;
     height: 100px;
+    /* border: 2px solid orange; */
 
     display: flex;
     flex-direction: column;
